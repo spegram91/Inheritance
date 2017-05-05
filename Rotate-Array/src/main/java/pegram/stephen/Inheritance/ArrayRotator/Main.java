@@ -1,4 +1,4 @@
-package pegram.stephen.Inheritance;
+package pegram.stephen.Inheritance.ArrayRotator;
 
 /**
  * Created by stephenpegram on 5/4/17.
@@ -21,7 +21,6 @@ public class Main {
         ar.rotateArrayList(2);
 
         System.out.println(ar.toString());
-
 
     }
 }
