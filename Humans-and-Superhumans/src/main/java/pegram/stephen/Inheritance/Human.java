@@ -45,15 +45,15 @@ public class Human {
         this.gender =  gender;
     }
 
-    public String setOccupation(String occupation){
+    public void setOccupation(String occupation){
         this.occupation = occupation;
     }
 
-    public String setAddress(){
+    public void setAddress(){
         this.address =  address;
     }
 
-    public int setAge(int age){
+    public void setAge(int age){
         this.age =  age;
     }
 }
